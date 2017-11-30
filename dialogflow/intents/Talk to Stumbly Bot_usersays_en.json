@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fbf5fe7d-eae7-4f3b-8f71-dc9638f0b59c",
+    "data": [
+      {
+        "text": "Talk to robot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504416283
+  },
+  {
+    "id": "b191bc28-06b5-456a-a68f-1bdfeb0e8e14",
+    "data": [
+      {
+        "text": "Talk to my bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504416283
+  },
+  {
+    "id": "e17721b7-55c3-42f3-be10-cfaecf9f9a86",
+    "data": [
+      {
+        "text": "Where is my robot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504416283
+  },
+  {
+    "id": "f0599616-6de2-4552-b82e-89f6766e8a37",
+    "data": [
+      {
+        "text": "Talk to my robot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504416283
+  },
+  {
+    "id": "874c6ac8-ec97-4d66-9b9d-69435c4ab7b8",
+    "data": [
+      {
+        "text": "Talk to Stumbly Bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

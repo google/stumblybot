@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fe8ad4b3-8db1-4c21-9267-d611eca27736",
+    "data": [
+      {
+        "text": "die",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511554779
+  },
+  {
+    "id": "3dd1814c-f727-428d-9756-d15690b7100e",
+    "data": [
+      {
+        "text": "shutdown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511554779
+  },
+  {
+    "id": "84bc690e-db4f-4fcc-b30c-7e34cefed0fe",
+    "data": [
+      {
+        "text": "terminate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511554779
+  }
+]

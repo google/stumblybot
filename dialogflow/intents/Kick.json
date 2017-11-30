@@ -1,0 +1,43 @@
+{
+  "id": "c59cbdc4-a6d0-4fb1-b715-bced837e2f8c",
+  "name": "Kick",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2e849b96-e5b6-4cb9-be65-479cd113dd1e",
+          "required": true,
+          "dataType": "@leg",
+          "name": "leg",
+          "value": "$leg",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which leg to use?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511553844,
+  "fallbackIntent": false,
+  "events": []
+}

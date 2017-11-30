@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2d0fe8dc-b19d-46b0-9826-247c4dc9b022",
+    "data": [
+      {
+        "text": "wave ",
+        "userDefined": false
+      },
+      {
+        "text": "left",
+        "alias": "arm",
+        "meta": "@arm",
+        "userDefined": false
+      },
+      {
+        "text": " arm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511553524
+  }
+]

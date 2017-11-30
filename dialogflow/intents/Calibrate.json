@@ -1,0 +1,29 @@
+{
+  "id": "922ed0d5-442b-4129-8bb2-b242269abbf9",
+  "name": "Calibrate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can\u0027t calibrate now."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504462425,
+  "fallbackIntent": false,
+  "events": []
+}

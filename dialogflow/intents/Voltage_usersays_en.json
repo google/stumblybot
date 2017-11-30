@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b1393e07-c9df-42df-963c-0d8102cae4ec",
+    "data": [
+      {
+        "text": "battery voltage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dc198d6-e30a-4456-afe3-071c2ca196f8",
+    "data": [
+      {
+        "text": "check voltage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa8075ca-2776-4dc7-a91b-b787eb778668",
+    "data": [
+      {
+        "text": "tell me your voltage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dbc9a03-fc62-40f0-96e5-cb856d97f579",
+    "data": [
+      {
+        "text": "tell me battery voltage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "900e2e26-9e78-44c5-90d0-36a599f688b9",
+    "data": [
+      {
+        "text": "what\u0027s your voltage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

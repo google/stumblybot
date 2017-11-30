@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e16b5c1f-965b-4c12-b810-dce6c26fb707",
+    "data": [
+      {
+        "text": "lean ",
+        "userDefined": false
+      },
+      {
+        "text": "left",
+        "alias": "lean_direction",
+        "meta": "@lean_direction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511550592
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "711e4dfc-38e1-44e4-a68b-eca5e863eabe",
+    "data": [
+      {
+        "text": "kick ",
+        "userDefined": false
+      },
+      {
+        "text": "@",
+        "alias": "leg",
+        "meta": "@leg",
+        "userDefined": true
+      },
+      {
+        "text": "leg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6d2d6a8-6252-425d-983b-b51c2a733604",
+    "data": [
+      {
+        "text": "kick with ",
+        "userDefined": false
+      },
+      {
+        "text": "left",
+        "alias": "leg",
+        "meta": "@leg",
+        "userDefined": false
+      },
+      {
+        "text": " leg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511553844
+  }
+]

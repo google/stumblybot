@@ -1,0 +1,28 @@
+{
+  "id": "2d084b5e-b89d-41b1-85b5-ef46c1b818e8",
+  "name": "Fired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511554761,
+  "fallbackIntent": false,
+  "events": []
+}

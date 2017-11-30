@@ -1,0 +1,28 @@
+{
+  "id": "d0dcedf4-3de8-43fd-b99c-b3aa8d76c263",
+  "name": "Terminate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511554779,
+  "fallbackIntent": false,
+  "events": []
+}

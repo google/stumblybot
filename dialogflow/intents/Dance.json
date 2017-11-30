@@ -1,0 +1,28 @@
+{
+  "id": "a6d0e9fd-9254-4d0c-bd8e-d05376bfad60",
+  "name": "Dance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511553865,
+  "fallbackIntent": false,
+  "events": []
+}

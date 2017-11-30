@@ -1,0 +1,47 @@
+{
+  "id": "08d23d9a-f5f4-4993-9239-9b6114f0c24e",
+  "name": "Lean",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cb0891c7-2d61-49d7-890d-f4da93ac2925",
+          "required": true,
+          "dataType": "@lean_direction",
+          "name": "lean_direction",
+          "value": "$lean_direction",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "In which direction?"
+            },
+            {
+              "lang": "en",
+              "value": "In which side?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511550592,
+  "fallbackIntent": false,
+  "events": []
+}

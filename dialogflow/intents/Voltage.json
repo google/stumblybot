@@ -1,0 +1,28 @@
+{
+  "id": "7c871122-b346-44a5-be28-40583cfcc5aa",
+  "name": "Voltage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "My voltage is not your business."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504462487732,
+  "fallbackIntent": false,
+  "events": []
+}

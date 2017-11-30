@@ -1,0 +1,28 @@
+[
+  {
+    "value": "left",
+    "synonyms": [
+      "left"
+    ]
+  },
+  {
+    "value": "backward",
+    "synonyms": [
+      "backward",
+      "backwards"
+    ]
+  },
+  {
+    "value": "forward",
+    "synonyms": [
+      "forward",
+      "forwards"
+    ]
+  },
+  {
+    "value": "right",
+    "synonyms": [
+      "right"
+    ]
+  }
+]

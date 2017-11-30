@@ -1,0 +1,57 @@
+{
+  "id": "baf1d9d4-3d61-4371-88fd-525ce5a77d06",
+  "name": "Motion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Motion-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ed45a2e5-70bf-484a-b0cc-8b54bf79bc26",
+          "required": false,
+          "dataType": "@motion",
+          "name": "motion",
+          "value": "$motion",
+          "isList": false
+        },
+        {
+          "id": "8de7f5d6-d712-47f2-a7f6-89928756fbe9",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "number-integer",
+          "value": "$number-integer",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Meh, it\u0027s boring",
+            "Do it yourself",
+            "I don\u0027t want to do it",
+            "I\u0027m too old to do it"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504463631,
+  "fallbackIntent": false,
+  "events": []
+}

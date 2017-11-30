@@ -1,0 +1,28 @@
+{
+  "id": "477f4045-7c6b-456d-a98f-04c2408919e6",
+  "name": "StraightenOut",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510516635525,
+  "fallbackIntent": false,
+  "events": []
+}

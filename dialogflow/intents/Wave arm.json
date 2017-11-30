@@ -1,0 +1,47 @@
+{
+  "id": "9d689815-7183-4de3-a64f-08e6aa3e7396",
+  "name": "Wave arm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eada4ae2-f6df-433e-85c6-f500785fa81c",
+          "required": true,
+          "dataType": "@arm",
+          "name": "arm",
+          "value": "$arm",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which arm?"
+            },
+            {
+              "lang": "en",
+              "value": "Which one?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511553524,
+  "fallbackIntent": false,
+  "events": []
+}

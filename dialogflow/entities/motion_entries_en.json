@@ -1,0 +1,25 @@
+[
+  {
+    "value": "walk",
+    "synonyms": [
+      "go",
+      "walk",
+      "go forward",
+      "walk forward"
+    ]
+  },
+  {
+    "value": "step forward",
+    "synonyms": [
+      "step forward",
+      "make a step",
+      "do a step"
+    ]
+  },
+  {
+    "value": "barrel roll",
+    "synonyms": [
+      "barrel roll"
+    ]
+  }
+]

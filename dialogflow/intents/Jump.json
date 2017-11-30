@@ -1,0 +1,28 @@
+{
+  "id": "7d9da363-c09c-4e9c-903e-2e0ccdfc00a3",
+  "name": "Jump",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511556051,
+  "fallbackIntent": false,
+  "events": []
+}

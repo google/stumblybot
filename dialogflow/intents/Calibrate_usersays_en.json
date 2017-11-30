@@ -1,0 +1,74 @@
+[
+  {
+    "id": "d950e46a-4532-4bf1-981b-a5a6007d5309",
+    "data": [
+      {
+        "text": "it\u0027s your zero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504462341
+  },
+  {
+    "id": "a05fcc4e-a066-4295-bf93-1dbc5fe268bb",
+    "data": [
+      {
+        "text": "that\u0027s your zero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504462341
+  },
+  {
+    "id": "e800e78a-7036-4e24-82ae-63bb01854de7",
+    "data": [
+      {
+        "text": "that\u0027s your zero position",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504462341
+  },
+  {
+    "id": "e22f6e51-9c94-4caa-9492-4705dfa01953",
+    "data": [
+      {
+        "text": "remember your calibration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504462341
+  },
+  {
+    "id": "fcf13ddc-a4ae-4a12-a998-7d3442b48ec1",
+    "data": [
+      {
+        "text": "remember calibration position",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504462341
+  },
+  {
+    "id": "ebbe0ab4-2537-48a1-b403-111bfe791699",
+    "data": [
+      {
+        "text": "remember zero position",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504462341
+  }
+]

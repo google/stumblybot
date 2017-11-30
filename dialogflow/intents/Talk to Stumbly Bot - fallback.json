@@ -1,0 +1,33 @@
+{
+  "id": "a0585147-1f07-4c4e-9865-6e45a3eb9190",
+  "parentId": "bb616828-599d-4429-acb6-4c59240437c4",
+  "rootParentId": "bb616828-599d-4429-acb6-4c59240437c4",
+  "name": "Talk to Stumbly Bot - fallback",
+  "auto": false,
+  "contexts": [
+    "TalktoStumblyBot-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TalktoStumblyBot.TalktoStumblyBot-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hey man, why did you call me?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504416144,
+  "fallbackIntent": true,
+  "events": []
+}
