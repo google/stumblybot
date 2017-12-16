@@ -19,6 +19,18 @@ and DialogFlow.
   * It will understand voice queries from Google Assistant and call Marty Router
     with a webhook mechanism.
 
+# Hardware requirements
+
+* Marty Robot - https://robotical.io/shop/sku/1
+* Raspberry Pi 3 Model B, but maybe other versions will work, I haven't tried.
+  Make sure that Assistant client binary distributed by Google works on your
+  device. https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
+* Any compact USB microphone to fit into the robot enclosure. I used
+  https://www.amazon.com/gp/product/B01KLRBHGM/.
+* Any compact speaker to fit into the robot enclosure. I used a USB one -
+  https://www.adafruit.com/product/3369, disassembled it and put into the robot
+  head.
+
 # How to make it work
 
 * Build and deploy Router
